@@ -6,16 +6,16 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Pierniki.aternos.me",
+    "port": 32953,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 1254.610,
+    "y": 60.00000,
+    "z": -2002.677
   },
   "utils": {
     "auto-auth": {
